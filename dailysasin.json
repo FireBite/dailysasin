@@ -1,15 +1,19 @@
 {
     "meta": {
         "name": "dailysasin",
-        "version": "0.3"
+        "version": "0.4"
     },
     "facts": [
-        "Za 70 000 000 zł przepieproznych przez Sasina na wybory, które się nie odbyły, można by wynieść 1.5 tony ładunku w przestrzeń kosmiczną!",
+        "Za 70 000 000 zł przepieprzonych przez Sasina na wybory, które się nie odbyły, można by wynieść 1.5 tony ładunku w przestrzeń kosmiczną!",
         "Przestrzeń kosmiczna dookoła ziemi posiada 1.828571428571429 sasina złomu <1cm",
         "Firma SpaceX dotychczas wystrzeliła 11,885714285714285714285714285714 mikrosasina satelit Starlink",
         "W Drodze Mlecznej znajduje się od około 1.5 kilosasina do około 6 kilosiasinów gwiazd",
         "W obserwowalnym wszechświecie znajduje się 7 decysasinów supergromad galaktyk",
         "Od lądowania Apollo 11 minęło około 23 sasiny sekund",
-        "Od wystrzelenia pierwszej sztucznej satelity - Sojuza 1 mineło około 6.5 milisasina godzin"
+        "Od wystrzelenia pierwszej sztucznej satelity - Sputnik 1 mineło około 6.5 milisasina godzin",
+        "Dotychczas wystrzelono około 0.0001196857143 sasina sztucznych satelitów",
+        "2137 to inaczej 0.0000305285714 sasina",
+        "Prędkość światła wynosi w przybliżeniu 4.2857142857143 sasina m/s",
+        "Odległość Ziemi od Słońca wynosi około 2.137142857142857 km"
     ]
 }
